@@ -1,7 +1,7 @@
 # Tribute Page
 
 <b>Objective</b>: Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/zNqgVx.
-CodePen.io link: https://codepen.io/fabisouza/pen/GLZRmJ
+<b>CodePen.io link<b>: https://codepen.io/fabisouza/pen/GLZRmJ
 
 <b>User Story #1:</b> My tribute page should have an element with a corresponding id="main", which contains all other elements.
 <b>User Story #2:</b> I should see an element with a corresponding id="title", which contains a string (i.e. text) that describes the subject of the tribute page (e.g. "Dr. Norman Borlaug").
